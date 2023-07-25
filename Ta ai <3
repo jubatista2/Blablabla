@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <STYLE TYPE="text/css">
+    BODY {background-image: url(galaxia.png);}
+</STYLE>
+  <h1>5 CURIOSIDADES SOBRE NOSSA GALÁXIA</h1>
+  <ul>
+    <li>1: A Via Láctea está empenhada em formato de "S".</li>
+    <li>2: Ela tem quase 2 milhões de anos-luz de diâmetro.</li>
+    <li>3: São mais de 200 bilhões de estrelas, mas vemos poucas.</li>
+    <li>4: Nossa galáxia é parte do Superaglomerado de Laniakea.</li>
+    <li>5: A Via Láctea tem poeira e gás para formar bilhões de 
+  </ul>
+  <script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
